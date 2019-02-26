@@ -1,0 +1,10 @@
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\Julia\Documents\GeekBrains\C# 1 lvl\Lesson8\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb
